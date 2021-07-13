@@ -1,0 +1,9 @@
+[package]
+name = "ocean"
+version = "0.0.1"
+authors = ["Jonas Korte"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.5"
+rand = "0.8"
